@@ -9,3 +9,6 @@ Overview of real life applications and various projects involving computer visio
 
 ## Detecting COVID-19 in X-Rays 
 ![image](https://user-images.githubusercontent.com/43652410/100555202-da466980-3267-11eb-867b-87a40f70a275.png)
+
+## Pop Art Filter
+![popartdemo](https://user-images.githubusercontent.com/43652410/100557059-91e17880-3274-11eb-9c9b-d56a55900d1d.png)
