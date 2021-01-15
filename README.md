@@ -18,5 +18,9 @@ Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applicat
 ## Object Detection
 ![image](https://user-images.githubusercontent.com/43652410/100557085-be959000-3274-11eb-849b-b61734f06e56.png)
 
+## Human Pose Estimation
+
+![image](https://user-images.githubusercontent.com/43652410/104680643-5e409d80-56be-11eb-9ff5-dd5b6f241437.png)
+
 ## Pop Art Effect
 ![popartdemo](https://user-images.githubusercontent.com/43652410/100557059-91e17880-3274-11eb-9c9b-d56a55900d1d.png)
