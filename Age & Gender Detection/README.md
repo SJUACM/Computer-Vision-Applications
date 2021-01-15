@@ -1,15 +1,18 @@
 # How to Run the Code
 
-Navigate to this directory: `cd "Age & Gender Detection"`
+1. Navigate to this directory: `cd "Age & Gender Detection"`
 
-Download the necessary models:
+2. Download the necessary models:
 
-  - Gender Net: https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0"
+   - Gender Net: https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0"
   
-  - Age Net: https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
+   - Age Net: https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
 
 
-Then, run:
+3. Upload the downloaded models in the current folder (Age & Gender Detection)
+
+
+4. Then, run:
 
 ```
 python AgeGender.py --input <input_file>(Leave blank for webcam)
