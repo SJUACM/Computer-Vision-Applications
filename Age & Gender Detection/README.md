@@ -23,6 +23,9 @@ The full tutorial can be found [here](https://learnopencv.com/age-gender-classif
 python AgeGender.py --input <input_file>(Leave blank for webcam)
 ```
 
+5. Press 'Q' to exit the program
+
+
 ## Sample Result
 
 ![](sample-output.jpg)
