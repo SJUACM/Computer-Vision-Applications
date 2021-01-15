@@ -7,3 +7,4 @@ Check out the full tutorial along with the dataset [here](https://www.pyimagesea
   - Navigate to this directory `cd "Face Mask Detection"`
   - Download all the dependencies `pip install -r requirements.txt`
   - To run model with your webcam, run `python detect_mask_video.py`
+  - Press 'Q' to exit the program
