@@ -14,7 +14,7 @@ The full tutorial can be found [here](https://learnopencv.com/age-gender-classif
    - Age Net: https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
 
 
-3. Upload the downloaded models in the current folder (Age & Gender Detection)
+3. Place the downloaded models in the current folder (Age & Gender Detection)
 
 
 4. Then, run:
