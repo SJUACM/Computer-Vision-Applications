@@ -12,7 +12,7 @@ Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applicat
 ## Social Distancing Detection 
 ![socialdistancing](https://user-images.githubusercontent.com/43652410/100527521-33979580-31a1-11eb-9e30-c59deb6b955b.gif)
 
-## Age & Gender Classification
+## Age & Gender Detection
 ![agegenderclassification](https://user-images.githubusercontent.com/43652410/100788476-1eaa4480-33e3-11eb-81c7-6dde10b4491f.jpg)
 
 ## Object Detection
