@@ -2,6 +2,7 @@
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
 Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
+
 Navigate to the directory `cd Computer-Vision-Applications`
 
 ## Face Mask Detection 
