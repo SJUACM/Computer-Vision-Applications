@@ -1,6 +1,6 @@
 # How to Run the Code
 
-1. Navigate to this directory: `cd "Age & Gender Detection"`
+1. Navigate to this directory `cd "Age & Gender Detection"`
 
 2. Download the necessary models:
 
