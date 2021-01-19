@@ -5,7 +5,7 @@ Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applicat
 
 Navigate to the directory `cd Computer-Vision-Applications`
 
-**To open Python Notebook files (.ipynb), upload them in Google Collab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)**
+**To open Python Notebook files (.ipynb), upload them in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)**
 
 ## Face Mask Detection 
 ![facemask](https://user-images.githubusercontent.com/43652410/100527507-11057c80-31a1-11eb-9911-bb58f60c99a5.gif)
