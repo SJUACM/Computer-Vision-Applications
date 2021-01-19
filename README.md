@@ -10,6 +10,10 @@ Overview of real life applications and various projects involving computer visio
 
   - **To open Python Notebook files (.ipynb), upload them in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)**
 
+## Additional Resources 
+
+  - [TedTalk: How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs)
+
 # Featured Projects 
 
 ## [Face Mask Detection](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Face%20Mask%20Detection) 
