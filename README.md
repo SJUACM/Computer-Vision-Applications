@@ -1,7 +1,7 @@
 # Computer-Vision-Applications
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
-## How to Run the Code 
+# How to Run the Code 
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
 
   - Navigate to the directory `cd Computer-Vision-Applications`
