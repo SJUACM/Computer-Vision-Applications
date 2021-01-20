@@ -1,6 +1,9 @@
 # Computer-Vision-Applications
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD)
+
+
 # How to Run the Code 
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
 
