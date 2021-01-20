@@ -3,7 +3,7 @@ Overview of real life applications and various projects involving computer visio
 
 ### [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD) (Launch all Python Notebook files)
 
-## To Run the Python files (.py):
+## How To Run the Python files (.py):
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
 
   - Navigate to the directory `cd Computer-Vision-Applications`
