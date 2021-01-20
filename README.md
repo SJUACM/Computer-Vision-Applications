@@ -1,7 +1,7 @@
 # Computer-Vision-Applications
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
-## **Click to open all the Python Notebook (.ipynb) files:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD)
+### [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD) (Launch all Python Notebook files)
 
 ## To Run the Python files (.py):
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
@@ -9,8 +9,6 @@ Overview of real life applications and various projects involving computer visio
   - Navigate to the directory `cd Computer-Vision-Applications`
   
   - Follow the instructions in your specific project's folder 
-
-  - **To open Python Notebook files (.ipynb), upload them in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)**
 
 ## Additional Resources 
 
