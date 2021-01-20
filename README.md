@@ -13,6 +13,7 @@ Overview of real life applications and various projects involving computer visio
 ## Additional Resources 
 
   - [TedTalk: How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs)
+  - [MIT Intro to Deep Learning Lecture](https://www.youtube.com/watch?v=njKP3FqW3Sk)
   - [MIT Convolutional Neural Network Lecture](https://www.youtube.com/watch?v=iaSUYvmCekI)
 
 # Featured Projects 
