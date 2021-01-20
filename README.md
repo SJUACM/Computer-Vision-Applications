@@ -4,7 +4,7 @@ Overview of real life applications and various projects involving computer visio
 ## To Launch all Python Notebook files (.ipynb):
   - Click on the icon [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD) 
   
-  - Choose a project and open the file 
+  - Choose a project and open a file 
   
   - You can now look through edit the code!
   
