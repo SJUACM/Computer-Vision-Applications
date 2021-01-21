@@ -24,6 +24,7 @@ Overview of real life applications and various projects involving computer visio
   - [TedTalk: How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs)
   - [MIT Intro to Deep Learning Lecture](https://www.youtube.com/watch?v=njKP3FqW3Sk)
   - [MIT Convolutional Neural Network Lecture](https://www.youtube.com/watch?v=iaSUYvmCekI)
+  - [GTA 5 Self Driving Car via Computer Vision](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 
 # Featured Projects 
 
