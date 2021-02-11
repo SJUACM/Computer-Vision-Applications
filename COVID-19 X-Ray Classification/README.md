@@ -2,7 +2,7 @@
 
 Utilizing Deep Learning to detect COVID-19 and Viral Pneumonia from x-ray images 
 
-Research Publication: https://dl.acm.org/doi/10.1145/3431804
+**Research Publication: https://dl.acm.org/doi/10.1145/3431804**
 
 
 **Datasets used:**
