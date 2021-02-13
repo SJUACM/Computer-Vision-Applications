@@ -26,6 +26,7 @@ Overview of real life applications and various projects involving computer visio
   - [TedTalk: How AI is Making it Easier to Diagnose Disease](https://www.youtube.com/watch?v=mhEYvrFOP88)
   - [MIT Intro to Deep Learning Lecture](https://www.youtube.com/watch?v=njKP3FqW3Sk)
   - [MIT Convolutional Neural Network Lecture](https://www.youtube.com/watch?v=iaSUYvmCekI)
+  - [Deep Neural Networks Help to Explain Living Brains](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
   - [GTA 5 Self Driving Car via Computer Vision](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 
 # Featured Projects 
