@@ -27,6 +27,7 @@ Overview of real life applications and various projects involving computer visio
   - [MIT Intro to Deep Learning Lecture](https://www.youtube.com/watch?v=njKP3FqW3Sk)
   - [MIT Convolutional Neural Network Lecture](https://www.youtube.com/watch?v=iaSUYvmCekI)
   - [Deep Neural Networks Help to Explain Living Brains](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
+  - [How NASA Built a Self-Driving Car for Its Next Mars Mission](https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/)
   - [GTA 5 Self Driving Car via Computer Vision](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 
 # Featured Projects 
