@@ -31,6 +31,9 @@ Overview of real life applications and various projects involving computer visio
   - [Interactive 3D Visualization of Convolutional Layers](https://www.cs.ryerson.ca/~aharley/vis/conv/)
   - [GTA 5 Self Driving Car via Computer Vision](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 
+  - **Datasets for ML Applications can be found on [Kaggle](https://www.kaggle.com/datasets) and [Google Dataset Search](https://datasetsearch.research.google.com/)**
+
+
 # Featured Projects 
 
 ## [Face Mask Detection](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Face%20Mask%20Detection) 
