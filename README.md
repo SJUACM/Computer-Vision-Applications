@@ -12,7 +12,7 @@ Overview of real life applications and various projects involving computer visio
   
   - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
-## To Run the Python files (.py):
+## To Download & Run the Python files (.py):
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
 
   - Navigate to the directory `cd Computer-Vision-Applications`
