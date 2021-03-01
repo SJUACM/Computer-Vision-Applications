@@ -46,18 +46,18 @@ Overview of real life applications and various projects involving computer visio
 ## [Detecting COVID-19 in X-Rays](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/COVID-19%20X-Ray%20Classification) 
 ![image](https://user-images.githubusercontent.com/43652410/100555202-da466980-3267-11eb-867b-87a40f70a275.png)
 
-## Social Distancing Detection 
+## [Social Distancing Detection](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Image%20Filtering%2C%20Object%20Detection%20%26%20Misc) 
 ![socialdistancing](https://user-images.githubusercontent.com/43652410/100527521-33979580-31a1-11eb-9e30-c59deb6b955b.gif)
 
 ## [Age & Gender Detection](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Age%20%26%20Gender%20Detection)
 ![agegenderclassification](https://user-images.githubusercontent.com/43652410/100788476-1eaa4480-33e3-11eb-81c7-6dde10b4491f.jpg)
 
-## Object Detection
+## [Object Detection](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Image%20Filtering%2C%20Object%20Detection%20%26%20Misc)
 ![image](https://user-images.githubusercontent.com/43652410/100557085-be959000-3274-11eb-849b-b61734f06e56.png)
 
 ## [Human Pose Estimation](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Pose%20Estimation)
 
 ![image](https://user-images.githubusercontent.com/43652410/104680643-5e409d80-56be-11eb-9ff5-dd5b6f241437.png)
 
-## Pop Art Effect
+## [Pop Art Effect](https://github.com/SJUSATA/Computer-Vision-Applications/tree/main/Image%20Filtering%2C%20Object%20Detection%20%26%20Misc)
 ![popartdemo](https://user-images.githubusercontent.com/43652410/100557059-91e17880-3274-11eb-9c9b-d56a55900d1d.png)
