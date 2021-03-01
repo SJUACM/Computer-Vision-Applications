@@ -14,7 +14,7 @@ Overview of real life applications and various projects involving computer visio
   
   - You can also download the .ipynb files in this repository and upload them in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
-  - Alternatively, if you want to run .ipynb files on your local machine you can download jupyter notebook by running `pip install notebook` and then running `jupyter notebook`
+  - Alternatively, if you want to run .ipynb files on your local machine you can download jupyter notebook by running `pip install notebook` and then running `jupyter notebook`. Read more [here](https://jupyter.org/install)
 
 ## To Download & Run the Python files (.py):
   - Download the code `git clone https://github.com/SJUSATA/Computer-Vision-Applications.git`
