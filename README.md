@@ -6,9 +6,11 @@ Overview of real life applications and various projects involving computer visio
   
   - Choose a project and open a file 
   
-  - You can now look through edit the code!
-  
-  - Download the file to save your changes
+  - You can now look through the code!
+
+  - To interact with and run the code, click on the 'Execute on Binder' button on the top right of the screen. (This will take a considerable amount of time to load)
+
+  - Once loaded, you can download the file to save your changes
   
   - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
