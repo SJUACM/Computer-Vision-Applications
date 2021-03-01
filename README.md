@@ -2,7 +2,7 @@
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
 ## To Launch all Python Notebook files (.ipynb):
-  - Click on the icon [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Computer-Vision-Applications/HEAD) 
+  - Click [here](https://nbviewer.jupyter.org/github/SJUSATA/Computer-Vision-Applications/tree/main/)
   
   - Choose a project and open a file 
   
