@@ -32,6 +32,7 @@ View this repository in VS Code [here](https://github1s.com/SJUSATA/Computer-Vis
   - [TedTalk: How AI is Making it Easier to Diagnose Disease](https://www.youtube.com/watch?v=mhEYvrFOP88)
   - [MIT Intro to Deep Learning Lecture](https://www.youtube.com/watch?v=njKP3FqW3Sk)
   - [MIT Convolutional Neural Network Lecture](https://www.youtube.com/watch?v=iaSUYvmCekI)
+  - [How Google Uses CAPTCHA to Train its Self Driving Cars](https://wingarc.com.au/is-google-using-us-to-train-self-driving-cars/)
   - [Deep Neural Networks Help to Explain Living Brains](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
   - [How NASA Built a Self-Driving Car for Its Next Mars Mission](https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/)
   - [Interactive 3D Visualization of Convolutional Layers](https://www.cs.ryerson.ca/~aharley/vis/conv/)
