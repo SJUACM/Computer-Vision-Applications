@@ -2,7 +2,7 @@
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
 **Check out our YouTube video for an overview of how Computer Vision works:**
-  - https://www.youtube.com/watch?v=ugCHGbzswGE**
+  - https://www.youtube.com/watch?v=ugCHGbzswGE
   
 
 ## To Launch all Python Notebook files (.ipynb):
