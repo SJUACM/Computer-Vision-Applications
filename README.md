@@ -1,7 +1,9 @@
 # Computer-Vision-Applications
 Overview of real life applications and various projects involving computer vision &amp; deep learning 
 
-View this repository in VS Code [here](https://github1s.com/SJUSATA/Computer-Vision-Applications)
+**Check out our YouTube video for an overview of how Computer Vision works:**
+  - https://www.youtube.com/watch?v=ugCHGbzswGE**
+  
 
 ## To Launch all Python Notebook files (.ipynb):
   - Click [here](https://nbviewer.jupyter.org/github/SJUSATA/Computer-Vision-Applications/tree/main/)
